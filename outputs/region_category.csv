@@ -1,0 +1,201 @@
+region_code,category,poi_count
+abay,Education,237
+abay,Finance,197
+abay,Food & drink,327
+abay,Healthcare,203
+abay,Other amenities,326
+abay,Public services,171
+abay,Recreation,428
+abay,Retail,1143
+abay,Tourism,189
+abay,Transport,336
+akmola,Education,360
+akmola,Finance,255
+akmola,Food & drink,446
+akmola,Healthcare,298
+akmola,Other amenities,990
+akmola,Public services,191
+akmola,Recreation,601
+akmola,Retail,2263
+akmola,Tourism,309
+akmola,Transport,782
+aktobe,Education,427
+aktobe,Finance,222
+aktobe,Food & drink,643
+aktobe,Healthcare,383
+aktobe,Other amenities,1461
+aktobe,Public services,136
+aktobe,Recreation,1186
+aktobe,Retail,2397
+aktobe,Tourism,255
+aktobe,Transport,1322
+almaty_city,Education,594
+almaty_city,Finance,1218
+almaty_city,Food & drink,1909
+almaty_city,Healthcare,839
+almaty_city,Other amenities,6712
+almaty_city,Public services,289
+almaty_city,Recreation,3599
+almaty_city,Retail,4096
+almaty_city,Tourism,1161
+almaty_city,Transport,3043
+almaty_region,Education,327
+almaty_region,Finance,134
+almaty_region,Food & drink,369
+almaty_region,Healthcare,272
+almaty_region,Other amenities,1545
+almaty_region,Public services,3000
+almaty_region,Recreation,1030
+almaty_region,Retail,1543
+almaty_region,Tourism,1181
+almaty_region,Transport,778
+astana,Education,356
+astana,Finance,529
+astana,Food & drink,783
+astana,Healthcare,408
+astana,Other amenities,1563
+astana,Public services,99
+astana,Recreation,1433
+astana,Retail,2118
+astana,Tourism,422
+astana,Transport,1700
+atyrau,Education,529
+atyrau,Finance,191
+atyrau,Food & drink,381
+atyrau,Healthcare,230
+atyrau,Other amenities,487
+atyrau,Public services,158
+atyrau,Recreation,1497
+atyrau,Retail,835
+atyrau,Tourism,262
+atyrau,Transport,990
+east_kazakhstan,Education,287
+east_kazakhstan,Finance,255
+east_kazakhstan,Food & drink,341
+east_kazakhstan,Healthcare,252
+east_kazakhstan,Other amenities,814
+east_kazakhstan,Public services,186
+east_kazakhstan,Recreation,633
+east_kazakhstan,Retail,1823
+east_kazakhstan,Tourism,693
+east_kazakhstan,Transport,1118
+karaganda,Education,439
+karaganda,Finance,317
+karaganda,Food & drink,507
+karaganda,Healthcare,385
+karaganda,Other amenities,626
+karaganda,Public services,221
+karaganda,Recreation,843
+karaganda,Retail,2140
+karaganda,Tourism,264
+karaganda,Transport,1118
+kostanay,Education,311
+kostanay,Finance,218
+kostanay,Food & drink,280
+kostanay,Healthcare,276
+kostanay,Other amenities,814
+kostanay,Public services,171
+kostanay,Recreation,615
+kostanay,Retail,1980
+kostanay,Tourism,167
+kostanay,Transport,789
+kyzylorda,Education,284
+kyzylorda,Finance,152
+kyzylorda,Food & drink,198
+kyzylorda,Healthcare,155
+kyzylorda,Other amenities,777
+kyzylorda,Public services,332
+kyzylorda,Recreation,702
+kyzylorda,Retail,544
+kyzylorda,Tourism,133
+kyzylorda,Transport,342
+mangystau,Education,220
+mangystau,Finance,193
+mangystau,Food & drink,340
+mangystau,Healthcare,162
+mangystau,Other amenities,355
+mangystau,Public services,81
+mangystau,Recreation,388
+mangystau,Retail,728
+mangystau,Tourism,241
+mangystau,Transport,338
+north_kazakhstan,Education,186
+north_kazakhstan,Finance,142
+north_kazakhstan,Food & drink,215
+north_kazakhstan,Healthcare,199
+north_kazakhstan,Other amenities,351
+north_kazakhstan,Public services,118
+north_kazakhstan,Recreation,375
+north_kazakhstan,Retail,1253
+north_kazakhstan,Tourism,109
+north_kazakhstan,Transport,266
+pavlodar,Education,245
+pavlodar,Finance,226
+pavlodar,Food & drink,274
+pavlodar,Healthcare,237
+pavlodar,Other amenities,495
+pavlodar,Public services,86
+pavlodar,Recreation,504
+pavlodar,Retail,1624
+pavlodar,Tourism,171
+pavlodar,Transport,461
+shymkent,Education,155
+shymkent,Finance,201
+shymkent,Food & drink,341
+shymkent,Healthcare,214
+shymkent,Other amenities,519
+shymkent,Public services,51
+shymkent,Recreation,283
+shymkent,Retail,973
+shymkent,Tourism,141
+shymkent,Transport,378
+turkistan,Education,592
+turkistan,Finance,177
+turkistan,Food & drink,604
+turkistan,Healthcare,362
+turkistan,Other amenities,780
+turkistan,Public services,240
+turkistan,Recreation,1042
+turkistan,Retail,2276
+turkistan,Tourism,336
+turkistan,Transport,729
+ulytau,Education,61
+ulytau,Finance,53
+ulytau,Food & drink,64
+ulytau,Healthcare,41
+ulytau,Other amenities,52
+ulytau,Public services,23
+ulytau,Recreation,102
+ulytau,Retail,257
+ulytau,Tourism,56
+ulytau,Transport,98
+west_kazakhstan,Education,435
+west_kazakhstan,Finance,425
+west_kazakhstan,Food & drink,513
+west_kazakhstan,Healthcare,304
+west_kazakhstan,Other amenities,638
+west_kazakhstan,Public services,153
+west_kazakhstan,Recreation,715
+west_kazakhstan,Retail,1467
+west_kazakhstan,Tourism,214
+west_kazakhstan,Transport,671
+zhambyl,Education,170
+zhambyl,Finance,188
+zhambyl,Food & drink,326
+zhambyl,Healthcare,182
+zhambyl,Other amenities,323
+zhambyl,Public services,637
+zhambyl,Recreation,336
+zhambyl,Retail,732
+zhambyl,Tourism,146
+zhambyl,Transport,506
+zhetisu,Education,327
+zhetisu,Finance,117
+zhetisu,Food & drink,462
+zhetisu,Healthcare,263
+zhetisu,Other amenities,592
+zhetisu,Public services,269
+zhetisu,Recreation,615
+zhetisu,Retail,1357
+zhetisu,Tourism,382
+zhetisu,Transport,690

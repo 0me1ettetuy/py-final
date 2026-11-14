@@ -1,0 +1,22 @@
+{
+  "rows": 126778,
+  "unique_osm_keys": 126778,
+  "missing_region_count": 1243,
+  "missing_name_count": 70431,
+  "invalid_coordinates": 0,
+  "duplicate_osm_keys": 0,
+  "category_counts": {
+    "Retail": 31767,
+    "Other amenities": 20424,
+    "Recreation": 17139,
+    "Transport": 16582,
+    "Food & drink": 9383,
+    "Tourism": 6968,
+    "Public services": 6701,
+    "Education": 6664,
+    "Healthcare": 5711,
+    "Finance": 5439
+  },
+  "baseline_memory_mib": 57.44,
+  "optimized_memory_mib": 17.37
+}

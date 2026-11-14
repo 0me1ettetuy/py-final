@@ -1,0 +1,201 @@
+region_name,category_name,poi_count,category_rank
+Abay Region,Retail,1143,1
+Abay Region,Recreation,428,2
+Abay Region,Transport,336,3
+Abay Region,Food & drink,327,4
+Abay Region,Other amenities,326,5
+Abay Region,Education,237,6
+Abay Region,Healthcare,203,7
+Abay Region,Finance,197,8
+Abay Region,Tourism,189,9
+Abay Region,Public services,171,10
+Akmola Region,Retail,2263,1
+Akmola Region,Other amenities,990,2
+Akmola Region,Transport,782,3
+Akmola Region,Recreation,601,4
+Akmola Region,Food & drink,446,5
+Akmola Region,Education,360,6
+Akmola Region,Tourism,309,7
+Akmola Region,Healthcare,298,8
+Akmola Region,Finance,255,9
+Akmola Region,Public services,191,10
+Aktobe Region,Retail,2397,1
+Aktobe Region,Other amenities,1461,2
+Aktobe Region,Transport,1322,3
+Aktobe Region,Recreation,1186,4
+Aktobe Region,Food & drink,643,5
+Aktobe Region,Education,427,6
+Aktobe Region,Healthcare,383,7
+Aktobe Region,Tourism,255,8
+Aktobe Region,Finance,222,9
+Aktobe Region,Public services,136,10
+Almaty Region,Public services,3000,1
+Almaty Region,Other amenities,1545,2
+Almaty Region,Retail,1543,3
+Almaty Region,Tourism,1181,4
+Almaty Region,Recreation,1030,5
+Almaty Region,Transport,778,6
+Almaty Region,Food & drink,369,7
+Almaty Region,Education,327,8
+Almaty Region,Healthcare,272,9
+Almaty Region,Finance,134,10
+Almaty city,Other amenities,6712,1
+Almaty city,Retail,4096,2
+Almaty city,Recreation,3599,3
+Almaty city,Transport,3043,4
+Almaty city,Food & drink,1909,5
+Almaty city,Finance,1218,6
+Almaty city,Tourism,1161,7
+Almaty city,Healthcare,839,8
+Almaty city,Education,594,9
+Almaty city,Public services,289,10
+Astana city,Retail,2118,1
+Astana city,Transport,1700,2
+Astana city,Other amenities,1563,3
+Astana city,Recreation,1433,4
+Astana city,Food & drink,783,5
+Astana city,Finance,529,6
+Astana city,Tourism,422,7
+Astana city,Healthcare,408,8
+Astana city,Education,356,9
+Astana city,Public services,99,10
+Atyrau Region,Recreation,1497,1
+Atyrau Region,Transport,990,2
+Atyrau Region,Retail,835,3
+Atyrau Region,Education,529,4
+Atyrau Region,Other amenities,487,5
+Atyrau Region,Food & drink,381,6
+Atyrau Region,Tourism,262,7
+Atyrau Region,Healthcare,230,8
+Atyrau Region,Finance,191,9
+Atyrau Region,Public services,158,10
+East Kazakhstan Region,Retail,1823,1
+East Kazakhstan Region,Transport,1118,2
+East Kazakhstan Region,Other amenities,814,3
+East Kazakhstan Region,Tourism,693,4
+East Kazakhstan Region,Recreation,633,5
+East Kazakhstan Region,Food & drink,341,6
+East Kazakhstan Region,Education,287,7
+East Kazakhstan Region,Finance,255,8
+East Kazakhstan Region,Healthcare,252,9
+East Kazakhstan Region,Public services,186,10
+Karaganda Region,Retail,2140,1
+Karaganda Region,Transport,1118,2
+Karaganda Region,Recreation,843,3
+Karaganda Region,Other amenities,626,4
+Karaganda Region,Food & drink,507,5
+Karaganda Region,Education,439,6
+Karaganda Region,Healthcare,385,7
+Karaganda Region,Finance,317,8
+Karaganda Region,Tourism,264,9
+Karaganda Region,Public services,221,10
+Kostanay Region,Retail,1980,1
+Kostanay Region,Other amenities,814,2
+Kostanay Region,Transport,789,3
+Kostanay Region,Recreation,615,4
+Kostanay Region,Education,311,5
+Kostanay Region,Food & drink,280,6
+Kostanay Region,Healthcare,276,7
+Kostanay Region,Finance,218,8
+Kostanay Region,Public services,171,9
+Kostanay Region,Tourism,167,10
+Kyzylorda Region,Other amenities,777,1
+Kyzylorda Region,Recreation,702,2
+Kyzylorda Region,Retail,544,3
+Kyzylorda Region,Transport,342,4
+Kyzylorda Region,Public services,332,5
+Kyzylorda Region,Education,284,6
+Kyzylorda Region,Food & drink,198,7
+Kyzylorda Region,Healthcare,155,8
+Kyzylorda Region,Finance,152,9
+Kyzylorda Region,Tourism,133,10
+Mangystau Region,Retail,728,1
+Mangystau Region,Recreation,388,2
+Mangystau Region,Other amenities,355,3
+Mangystau Region,Food & drink,340,4
+Mangystau Region,Transport,338,5
+Mangystau Region,Tourism,241,6
+Mangystau Region,Education,220,7
+Mangystau Region,Finance,193,8
+Mangystau Region,Healthcare,162,9
+Mangystau Region,Public services,81,10
+North Kazakhstan Region,Retail,1253,1
+North Kazakhstan Region,Recreation,375,2
+North Kazakhstan Region,Other amenities,351,3
+North Kazakhstan Region,Transport,266,4
+North Kazakhstan Region,Food & drink,215,5
+North Kazakhstan Region,Healthcare,199,6
+North Kazakhstan Region,Education,186,7
+North Kazakhstan Region,Finance,142,8
+North Kazakhstan Region,Public services,118,9
+North Kazakhstan Region,Tourism,109,10
+Pavlodar Region,Retail,1624,1
+Pavlodar Region,Recreation,504,2
+Pavlodar Region,Other amenities,495,3
+Pavlodar Region,Transport,461,4
+Pavlodar Region,Food & drink,274,5
+Pavlodar Region,Education,245,6
+Pavlodar Region,Healthcare,237,7
+Pavlodar Region,Finance,226,8
+Pavlodar Region,Tourism,171,9
+Pavlodar Region,Public services,86,10
+Shymkent city,Retail,973,1
+Shymkent city,Other amenities,519,2
+Shymkent city,Transport,378,3
+Shymkent city,Food & drink,341,4
+Shymkent city,Recreation,283,5
+Shymkent city,Healthcare,214,6
+Shymkent city,Finance,201,7
+Shymkent city,Education,155,8
+Shymkent city,Tourism,141,9
+Shymkent city,Public services,51,10
+Turkistan Region,Retail,2276,1
+Turkistan Region,Recreation,1042,2
+Turkistan Region,Other amenities,780,3
+Turkistan Region,Transport,729,4
+Turkistan Region,Food & drink,604,5
+Turkistan Region,Education,592,6
+Turkistan Region,Healthcare,362,7
+Turkistan Region,Tourism,336,8
+Turkistan Region,Public services,240,9
+Turkistan Region,Finance,177,10
+Ulytau Region,Retail,257,1
+Ulytau Region,Recreation,102,2
+Ulytau Region,Transport,98,3
+Ulytau Region,Food & drink,64,4
+Ulytau Region,Education,61,5
+Ulytau Region,Tourism,56,6
+Ulytau Region,Finance,53,7
+Ulytau Region,Other amenities,52,8
+Ulytau Region,Healthcare,41,9
+Ulytau Region,Public services,23,10
+West Kazakhstan Region,Retail,1467,1
+West Kazakhstan Region,Recreation,715,2
+West Kazakhstan Region,Transport,671,3
+West Kazakhstan Region,Other amenities,638,4
+West Kazakhstan Region,Food & drink,513,5
+West Kazakhstan Region,Education,435,6
+West Kazakhstan Region,Finance,425,7
+West Kazakhstan Region,Healthcare,304,8
+West Kazakhstan Region,Tourism,214,9
+West Kazakhstan Region,Public services,153,10
+Zhambyl Region,Retail,732,1
+Zhambyl Region,Public services,637,2
+Zhambyl Region,Transport,506,3
+Zhambyl Region,Recreation,336,4
+Zhambyl Region,Food & drink,326,5
+Zhambyl Region,Other amenities,323,6
+Zhambyl Region,Finance,188,7
+Zhambyl Region,Healthcare,182,8
+Zhambyl Region,Education,170,9
+Zhambyl Region,Tourism,146,10
+Zhetisu Region,Retail,1357,1
+Zhetisu Region,Transport,690,2
+Zhetisu Region,Recreation,615,3
+Zhetisu Region,Other amenities,592,4
+Zhetisu Region,Food & drink,462,5
+Zhetisu Region,Tourism,382,6
+Zhetisu Region,Education,327,7
+Zhetisu Region,Public services,269,8
+Zhetisu Region,Healthcare,263,9
+Zhetisu Region,Finance,117,10

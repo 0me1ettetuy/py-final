@@ -1,0 +1,86 @@
+{
+  "project": "Topic 47 — Kazakhstan OSM POI Analytics",
+  "generated_utc": "2026-11-14T01:08:34.698210+00:00",
+  "pbf_source": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf",
+  "pbf_local_file_mtime_utc": "2026-11-14T01:07:14.786552+00:00",
+  "pbf_size_bytes": 226292505,
+  "population_source": "https://stat.gov.kz/en/region/",
+  "population_date": "2026-10-01",
+  "population_total": 20633529,
+  "osm_attribution": "© OpenStreetMap contributors, ODbL 1.0; extract by Geofabrik",
+  "poi_definition": "One record per OSM node/way/relation, priority amenity > shop > tourism > leisure",
+  "regions_definition": "20 current OSM administrative level 4 polygon relations matched explicitly to BNS region codes",
+  "spatial_method": "representative point for POI geometries; gpd.sjoin within to ADM1 polygons",
+  "trainable_ml_extension": "GPU PyTorch autoencoder on 2km urban category-count grids; spatial-block split; PCA and mean baselines",
+  "cluster_parameters": {
+    "eps_km": 0.5,
+    "min_samples": 8,
+    "max_points_per_city": 12000
+  },
+  "files": {
+    "poi_enriched": {
+      "filename": "poi_enriched.parquet",
+      "bytes": 4224316
+    },
+    "regions": {
+      "filename": "regions.geojson",
+      "bytes": 3081840
+    },
+    "region_stats": {
+      "filename": "region_stats.csv",
+      "bytes": 2313
+    },
+    "region_category": {
+      "filename": "region_category.csv",
+      "bytes": 5033
+    },
+    "city_stats": {
+      "filename": "city_stats.csv",
+      "bytes": 431
+    },
+    "sqlite": {
+      "filename": "kazakhstan_poi.sqlite",
+      "bytes": 23969792
+    },
+    "clusters": {
+      "filename": "clusters.parquet",
+      "bytes": 752814
+    },
+    "quality_report": {
+      "filename": "quality_report.json",
+      "bytes": 503
+    },
+    "benchmark": {
+      "filename": "benchmark.csv",
+      "bytes": 130
+    },
+    "hypotheses": {
+      "filename": "hypotheses.json",
+      "bytes": 644
+    },
+    "gpu_autoencoder": {
+      "filename": "urban_autoencoder.pt",
+      "bytes": 28339
+    },
+    "gpu_model_metrics": {
+      "filename": "gpu_model_metrics.csv",
+      "bytes": 182
+    },
+    "gpu_model_report": {
+      "filename": "gpu_model_report.json",
+      "bytes": 1781
+    },
+    "urban_grid_profiles": {
+      "filename": "urban_grid_profiles.parquet",
+      "bytes": 153133
+    }
+  },
+  "limitations": [
+    "OSM mapping coverage unequal across regions; counts do not equal real service inventories",
+    "POI polygons and lines reduced to representative points",
+    "Population denominators are first-level region totals; only 3 standalone city-region comparisons",
+    "DBSCAN may use sampled POIs for very large cities",
+    "Snapshot mismatch: BNS 2026-10-01 vs latest Geofabrik PBF download date",
+    "OSM node/area tagging may introduce distinct records for the same real-world establishment"
+  ]
+}

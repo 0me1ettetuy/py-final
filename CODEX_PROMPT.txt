@@ -1,0 +1,8 @@
+You are implementing the final project Topic 47 (OpenStreetMap Kazakhstan POI Analytics).
+Read START_HERE.md, CODEX_CONTEXT.md, TRAINING_RESULTS.md, and Topic47_Colab_GPU_Executed.ipynb first.
+All real processed datasets and model weights are ALREADY present in ./outputs/ — DO NOT download the PBF or retrain the autoencoder.
+Build a polished, fast Streamlit app with regional/city comparison, POI categories, map filters, POIs per 100K, geographic DBSCAN clustering, SQL analytics and 8 saved queries, quality audit, Pandas/Polars/SQLite benchmark, exploratory hypotheses, and AI neighbourhood profiles from urban_grid_profiles.parquet.
+Use actual data only, cache large reads, handle missing files and empty filters, distinguish sampled DBSCAN from full data, and label autoencoder evaluation correctly as reconstruction rather than prediction/classification.
+Keep app modular; add 5+ functions, tests, dependencies, validation script, ER diagram, README, .gitignore, OSM/ODbL + BNS attribution, and GitHub-ready layout.
+Use saved model weights for optional inference only (reconstruct architecture from notebook; load state_dict on CPU). Never train on each page load.
+Run tests and validate outputs. Do not claim a GitHub push unless it actually happened.

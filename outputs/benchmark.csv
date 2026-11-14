@@ -1,0 +1,4 @@
+approach,time_seconds,peak_process_rss_mib,matches_baseline
+sqlite,0.124,17.6,True
+pandas,0.942,131.1,True
+polars,0.449,74.4,True

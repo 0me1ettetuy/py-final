@@ -1,0 +1,23 @@
+[
+  {
+    "hypothesis": "H1 city category distributions equal",
+    "method": "chi_square",
+    "chi2": 1163.7958111478324,
+    "degrees_of_freedom": 18,
+    "p_value": 6.370977182342534e-236,
+    "cramers_v": 0.12691339079390582,
+    "min_expected_cell": 39.56553270407175,
+    "reject_at_0_05": true
+  },
+  {
+    "hypothesis": "H2 healthcare nearest-neighbor distance distributions equal",
+    "method": "Mann-Whitney U",
+    "n_astana": 408,
+    "n_almaty": 839,
+    "median_astana_km": 0.12688172842842144,
+    "median_almaty_km": 0.10343106208061603,
+    "u": 188605.0,
+    "p_value": 0.003451668531607622,
+    "reject_at_0_05": true
+  }
+]

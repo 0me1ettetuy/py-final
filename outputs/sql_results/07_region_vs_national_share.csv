@@ -1,0 +1,201 @@
+region_name,category_name,count_in_region,count_all,share_of_national_category_pct
+Almaty Region,Public services,3000,6612,45.37
+Almaty city,Other amenities,6712,20220,33.19
+Almaty city,Finance,1218,5410,22.51
+Almaty city,Recreation,3599,16927,21.26
+Almaty city,Food & drink,1909,9323,20.48
+Almaty city,Transport,3043,16455,18.49
+Almaty Region,Tourism,1181,6832,17.29
+Almaty city,Tourism,1161,6832,16.99
+Almaty city,Healthcare,839,5665,14.81
+Almaty city,Retail,4096,31549,12.98
+Astana city,Transport,1700,16455,10.33
+East Kazakhstan Region,Tourism,693,6832,10.14
+Astana city,Finance,529,5410,9.78
+Zhambyl Region,Public services,637,6612,9.63
+Almaty city,Education,594,6542,9.08
+Turkistan Region,Education,592,6542,9.05
+Atyrau Region,Recreation,1497,16927,8.84
+Astana city,Recreation,1433,16927,8.47
+Astana city,Food & drink,783,9323,8.4
+Atyrau Region,Education,529,6542,8.09
+Aktobe Region,Transport,1322,16455,8.03
+West Kazakhstan Region,Finance,425,5410,7.86
+Astana city,Other amenities,1563,20220,7.73
+Almaty Region,Other amenities,1545,20220,7.64
+Aktobe Region,Retail,2397,31549,7.6
+Aktobe Region,Other amenities,1461,20220,7.23
+Turkistan Region,Retail,2276,31549,7.21
+Astana city,Healthcare,408,5665,7.2
+Akmola Region,Retail,2263,31549,7.17
+Aktobe Region,Recreation,1186,16927,7.01
+Aktobe Region,Food & drink,643,9323,6.9
+Karaganda Region,Healthcare,385,5665,6.8
+East Kazakhstan Region,Transport,1118,16455,6.79
+Karaganda Region,Transport,1118,16455,6.79
+Karaganda Region,Retail,2140,31549,6.78
+Aktobe Region,Healthcare,383,5665,6.76
+Astana city,Retail,2118,31549,6.71
+Karaganda Region,Education,439,6542,6.71
+West Kazakhstan Region,Education,435,6542,6.65
+Aktobe Region,Education,427,6542,6.53
+Turkistan Region,Food & drink,604,9323,6.48
+Turkistan Region,Healthcare,362,5665,6.39
+Kostanay Region,Retail,1980,31549,6.28
+Astana city,Tourism,422,6832,6.18
+Turkistan Region,Recreation,1042,16927,6.16
+Almaty Region,Recreation,1030,16927,6.08
+Atyrau Region,Transport,990,16455,6.02
+Karaganda Region,Finance,317,5410,5.86
+East Kazakhstan Region,Retail,1823,31549,5.78
+Zhetisu Region,Tourism,382,6832,5.59
+Akmola Region,Education,360,6542,5.5
+West Kazakhstan Region,Food & drink,513,9323,5.5
+Astana city,Education,356,6542,5.44
+Karaganda Region,Food & drink,507,9323,5.44
+West Kazakhstan Region,Healthcare,304,5665,5.37
+Akmola Region,Healthcare,298,5665,5.26
+Pavlodar Region,Retail,1624,31549,5.15
+Kyzylorda Region,Public services,332,6612,5.02
+Almaty Region,Education,327,6542,5.0
+Zhetisu Region,Education,327,6542,5.0
+Karaganda Region,Recreation,843,16927,4.98
+Zhetisu Region,Food & drink,462,9323,4.96
+Turkistan Region,Tourism,336,6832,4.92
+Akmola Region,Other amenities,990,20220,4.9
+Almaty Region,Retail,1543,31549,4.89
+Kostanay Region,Healthcare,276,5665,4.87
+Almaty Region,Healthcare,272,5665,4.8
+Kostanay Region,Transport,789,16455,4.79
+Akmola Region,Food & drink,446,9323,4.78
+Akmola Region,Transport,782,16455,4.75
+Kostanay Region,Education,311,6542,4.75
+Almaty Region,Transport,778,16455,4.73
+Akmola Region,Finance,255,5410,4.71
+East Kazakhstan Region,Finance,255,5410,4.71
+West Kazakhstan Region,Retail,1467,31549,4.65
+Zhetisu Region,Healthcare,263,5665,4.64
+Akmola Region,Tourism,309,6832,4.52
+East Kazakhstan Region,Healthcare,252,5665,4.45
+Turkistan Region,Transport,729,16455,4.43
+East Kazakhstan Region,Education,287,6542,4.39
+Almaty city,Public services,289,6612,4.37
+Kyzylorda Region,Education,284,6542,4.34
+Zhetisu Region,Retail,1357,31549,4.3
+West Kazakhstan Region,Recreation,715,16927,4.22
+Zhetisu Region,Transport,690,16455,4.19
+Pavlodar Region,Finance,226,5410,4.18
+Pavlodar Region,Healthcare,237,5665,4.18
+Kyzylorda Region,Recreation,702,16927,4.15
+Aktobe Region,Finance,222,5410,4.1
+Atyrau Region,Food & drink,381,9323,4.09
+West Kazakhstan Region,Transport,671,16455,4.08
+Zhetisu Region,Public services,269,6612,4.07
+Atyrau Region,Healthcare,230,5665,4.06
+East Kazakhstan Region,Other amenities,814,20220,4.03
+Kostanay Region,Finance,218,5410,4.03
+Kostanay Region,Other amenities,814,20220,4.03
+North Kazakhstan Region,Retail,1253,31549,3.97
+Almaty Region,Food & drink,369,9323,3.96
+Karaganda Region,Tourism,264,6832,3.86
+Turkistan Region,Other amenities,780,20220,3.86
+Kyzylorda Region,Other amenities,777,20220,3.84
+Atyrau Region,Tourism,262,6832,3.83
+Shymkent city,Healthcare,214,5665,3.78
+Pavlodar Region,Education,245,6542,3.75
+East Kazakhstan Region,Recreation,633,16927,3.74
+Aktobe Region,Tourism,255,6832,3.73
+Shymkent city,Finance,201,5410,3.72
+East Kazakhstan Region,Food & drink,341,9323,3.66
+Shymkent city,Food & drink,341,9323,3.66
+Mangystau Region,Food & drink,340,9323,3.65
+Abay Region,Finance,197,5410,3.64
+Kostanay Region,Recreation,615,16927,3.63
+Turkistan Region,Public services,240,6612,3.63
+Zhetisu Region,Recreation,615,16927,3.63
+Abay Region,Education,237,6542,3.62
+Abay Region,Retail,1143,31549,3.62
+Abay Region,Healthcare,203,5665,3.58
+Mangystau Region,Finance,193,5410,3.57
+Akmola Region,Recreation,601,16927,3.55
+Atyrau Region,Finance,191,5410,3.53
+Mangystau Region,Tourism,241,6832,3.53
+Abay Region,Food & drink,327,9323,3.51
+North Kazakhstan Region,Healthcare,199,5665,3.51
+Zhambyl Region,Food & drink,326,9323,3.5
+Zhambyl Region,Finance,188,5410,3.48
+Mangystau Region,Education,220,6542,3.36
+Karaganda Region,Public services,221,6612,3.34
+Turkistan Region,Finance,177,5410,3.27
+Zhambyl Region,Healthcare,182,5665,3.21
+West Kazakhstan Region,Other amenities,638,20220,3.16
+West Kazakhstan Region,Tourism,214,6832,3.13
+Karaganda Region,Other amenities,626,20220,3.1
+Shymkent city,Retail,973,31549,3.08
+Zhambyl Region,Transport,506,16455,3.08
+Kostanay Region,Food & drink,280,9323,3.0
+Pavlodar Region,Recreation,504,16927,2.98
+Pavlodar Region,Food & drink,274,9323,2.94
+Zhetisu Region,Other amenities,592,20220,2.93
+Akmola Region,Public services,191,6612,2.89
+Mangystau Region,Healthcare,162,5665,2.86
+North Kazakhstan Region,Education,186,6542,2.84
+East Kazakhstan Region,Public services,186,6612,2.81
+Kyzylorda Region,Finance,152,5410,2.81
+Pavlodar Region,Transport,461,16455,2.8
+Abay Region,Tourism,189,6832,2.77
+Kyzylorda Region,Healthcare,155,5665,2.74
+Atyrau Region,Retail,835,31549,2.65
+North Kazakhstan Region,Finance,142,5410,2.62
+Zhambyl Region,Education,170,6542,2.6
+Abay Region,Public services,171,6612,2.59
+Kostanay Region,Public services,171,6612,2.59
+Shymkent city,Other amenities,519,20220,2.57
+Abay Region,Recreation,428,16927,2.53
+Pavlodar Region,Tourism,171,6832,2.5
+Almaty Region,Finance,134,5410,2.48
+Pavlodar Region,Other amenities,495,20220,2.45
+Kostanay Region,Tourism,167,6832,2.44
+Atyrau Region,Other amenities,487,20220,2.41
+Atyrau Region,Public services,158,6612,2.39
+Shymkent city,Education,155,6542,2.37
+Zhambyl Region,Retail,732,31549,2.32
+Mangystau Region,Retail,728,31549,2.31
+North Kazakhstan Region,Food & drink,215,9323,2.31
+West Kazakhstan Region,Public services,153,6612,2.31
+Shymkent city,Transport,378,16455,2.3
+Mangystau Region,Recreation,388,16927,2.29
+North Kazakhstan Region,Recreation,375,16927,2.22
+Zhetisu Region,Finance,117,5410,2.16
+Zhambyl Region,Tourism,146,6832,2.14
+Kyzylorda Region,Food & drink,198,9323,2.12
+Kyzylorda Region,Transport,342,16455,2.08
+Aktobe Region,Public services,136,6612,2.06
+Shymkent city,Tourism,141,6832,2.06
+Mangystau Region,Transport,338,16455,2.05
+Abay Region,Transport,336,16455,2.04
+Zhambyl Region,Recreation,336,16927,1.98
+Kyzylorda Region,Tourism,133,6832,1.95
+North Kazakhstan Region,Public services,118,6612,1.78
+Mangystau Region,Other amenities,355,20220,1.76
+North Kazakhstan Region,Other amenities,351,20220,1.74
+Kyzylorda Region,Retail,544,31549,1.72
+Shymkent city,Recreation,283,16927,1.67
+North Kazakhstan Region,Transport,266,16455,1.62
+Abay Region,Other amenities,326,20220,1.61
+North Kazakhstan Region,Tourism,109,6832,1.6
+Zhambyl Region,Other amenities,323,20220,1.6
+Astana city,Public services,99,6612,1.5
+Pavlodar Region,Public services,86,6612,1.3
+Mangystau Region,Public services,81,6612,1.23
+Ulytau Region,Finance,53,5410,0.98
+Ulytau Region,Education,61,6542,0.93
+Ulytau Region,Tourism,56,6832,0.82
+Ulytau Region,Retail,257,31549,0.81
+Shymkent city,Public services,51,6612,0.77
+Ulytau Region,Healthcare,41,5665,0.72
+Ulytau Region,Food & drink,64,9323,0.69
+Ulytau Region,Recreation,102,16927,0.6
+Ulytau Region,Transport,98,16455,0.6
+Ulytau Region,Public services,23,6612,0.35
+Ulytau Region,Other amenities,52,20220,0.26

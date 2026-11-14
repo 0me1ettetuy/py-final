@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+*.parquet binary
+*.sqlite binary
+*.pt binary
+*.joblib binary

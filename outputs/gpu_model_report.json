@@ -1,0 +1,63 @@
+{
+  "model_name": "AmenityAutoencoder",
+  "task": "unsupervised neighbourhood POI-category profile reconstruction",
+  "trained_device": "cuda",
+  "gpu_name": "Tesla T4",
+  "created_utc": "2026-11-14T01:08:23.457786+00:00",
+  "features": [
+    "Education",
+    "Finance",
+    "Food & drink",
+    "Healthcare",
+    "Other amenities",
+    "Public services",
+    "Recreation",
+    "Retail",
+    "Tourism",
+    "Transport"
+  ],
+  "category_count_columns": {
+    "category_count_00": "Education",
+    "category_count_01": "Finance",
+    "category_count_02": "Food & drink",
+    "category_count_03": "Healthcare",
+    "category_count_04": "Other amenities",
+    "category_count_05": "Public services",
+    "category_count_06": "Recreation",
+    "category_count_07": "Retail",
+    "category_count_08": "Tourism",
+    "category_count_09": "Transport"
+  },
+  "grid_size_m": 2000,
+  "min_pois_per_cell": 3,
+  "spatial_block_m": 10000,
+  "train_cells": 2478,
+  "validation_cells": 606,
+  "test_cells": 721,
+  "all_cells": 3805,
+  "training_epochs": 70,
+  "best_validation_epoch": 70,
+  "best_validation_mse": 0.12639686465263367,
+  "parameter_count": 5838,
+  "latent_dim": 4,
+  "test_metrics": {
+    "train_mean_baseline": {
+      "mse": 1.0833244323730469,
+      "mae": 0.7929663062095642
+    },
+    "pca_baseline": {
+      "mse": 0.17093059420585632,
+      "mae": 0.30338287353515625
+    },
+    "gpu_autoencoder": {
+      "mse": 0.12963038682937622,
+      "mae": 0.24349719285964966
+    }
+  },
+  "notes": [
+    "Target equals input: unsupervised, not supervised amenity prediction",
+    "Test groups disjoint from training and validation by 10 km cells",
+    "MSE/MAE evaluated in standardized log-count feature space",
+    "Profile KMeans labels are not geographic DBSCAN cluster IDs"
+  ]
+}

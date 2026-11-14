@@ -1,0 +1,20 @@
+{
+  "astana": {
+    "n": 9411,
+    "sampled": false,
+    "clusters": 25,
+    "noise_fraction": 0.02082669216873871
+  },
+  "almaty_city": {
+    "n": 12000,
+    "sampled": true,
+    "clusters": 45,
+    "noise_fraction": 0.043416666666666666
+  },
+  "shymkent": {
+    "n": 3256,
+    "sampled": false,
+    "clusters": 20,
+    "noise_fraction": 0.10933660933660934
+  }
+}
